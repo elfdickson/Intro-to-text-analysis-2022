@@ -1,2 +1,3 @@
-# Intro-to-text-analysis-2022
-Workshop materials for OARC's "Getting Started with  Computational Text Analysis with Python" workshop.
+# Getting started with computational text analysis with Python
+
+Workshop materials for sprin 2022 workshop.
